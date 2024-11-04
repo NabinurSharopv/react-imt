@@ -1,0 +1,230 @@
+[
+    {
+      "id": 1,
+      "image": "https://www.stanford.edu/wp-content/uploads/2024/10/23summerallhands_14_0-1500x1000-1.jpg"
+    },
+    {
+      "id": 2,
+      "image": "https://www.stanford.edu/wp-content/uploads/2024/10/hamstring-injury.jpg"
+    },
+    {
+      "id": 3,
+      "image": "https://www.stanford.edu/wp-content/uploads/2024/10/2024.10.05_Vaccine-Clinic_UComm_NikolasLiepins-10.jpg"
+    },
+    {
+        "id": 4,
+        "image": "https://www.stanford.edu/wp-content/uploads/2024/10/2024019_AI_Tinkery-5-1-1536x864-1.jpg"
+      },
+      {
+        "id": 5,
+        "image": "https://www.stanford.edu/wp-content/uploads/2024/10/2024.10.05_Vaccine-Clinic_UComm_NikolasLiepins-10.jpg"
+      },
+      {
+        "id": 6,
+        "image": "https://www.stanford.edu/wp-content/uploads/2024/10/20241009_Amulets_95A8715.jpg"
+      },
+      {
+        "id":7,
+        "image": "https://www.stanford.edu/wp-content/uploads/2023/05/20230418_Grayson_Armour_95A0681-2.jpg",
+        "title": "Bakalavr ta'limiKeng liberal va chuqur fan sohasidagi tajribani ta'minlaydigan boy o'rganish tajribasi"
+       },
+      {
+        "id": 8,
+        "image": "https://www.stanford.edu/wp-content/uploads/2023/03/20220714Hopkins_Marine_Station_N6A7270-1-2048x1366.jpg",
+        "title": "Oliy taʼlimBilimning barcha sohalarini rivojlantirishda ishtirok etish uchun tengsiz imkoniyatlar"
+
+      },
+      {
+        "id": 9,
+        "image": "https://www.stanford.edu/wp-content/uploads/2023/03/20211117_Elizabeth_Reese_N6A0441-2048x1366.jpg",
+        "title": "Haydash ta'siriUzluksiz kattalar ta'limi, ijrochi va professional dasturlar va K-12 talabalari uchun dasturlar"
+      },
+      {
+        "id": 10,
+        "image": "https://photogov-com.akamaized.net/examples/original/US.webp"
+      },
+      {
+        "id": 11,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Valeriy_Konovalyuk_3x4.jpg"
+      },
+      {
+        "id": 12,
+        "image": "https://photogov-com.akamaized.net/examples/original/IN.webp"
+      },
+      {
+        "id": 13,
+        "image": "https://photogov-com.akamaized.net/examples/original/AM.webp"
+      },
+      {
+        "id":14,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Tim_Ryan_portrait_%283x4_cropped%29.jpg"
+      },
+      {
+        "id": 15,
+        "image": "https://www.stanford.edu/wp-content/uploads/2022/08/Maya-admission.jpg",
+       "title": "Kollejga sayohatingiz xaritasini tuzayotganda Nabinurda ta'limi imkoniyatlarini o'rganing.Biz o'z darslarida, faoliyatida, loyihalarida, tadqiqotlarida va hayotida ko'p energiya va qiziqishni namoyish etadigan o'ziga xos talabalarni qidiramiz."
+      },
+      {
+        "id": 16,
+        "image": "https://www.stanford.edu/wp-content/uploads/2022/04/academics-banner-3.jpg"
+      },
+      {
+        "id": "17",
+        "image": "https://www.stanford.edu/wp-content/uploads/2022/04/20220214_AA100_N6A9886.jpg"
+      },
+      {
+        "id": 18,
+        "image": "https://www.stanford.edu/wp-content/uploads/2022/04/20220214_AA100_N6A9886.jpg"
+      },
+      {
+        "id": 19,
+        "image": "https://www.stanford.edu/wp-content/uploads/2022/04/20210910_Stanford_Educational_Farm_N6A0733-2048x1366.jpg"
+      } ,
+      {
+        "id":20,
+        "image": "https://arboretum.harvard.edu/wp-content/uploads/2020/05/mbq_Hl0g.jpeg"
+      },
+      {
+        "id": 21,
+        "image": "https://arboretum.harvard.edu/wp-content/uploads/2023/01/vaccinium-corymbosum-flowers-and-early-fruits_Kyle-Port-scaled.jpeg"
+      },
+      {
+        "id":22,
+        "image": "https://arboretum.harvard.edu/wp-content/uploads/2021/09/image-for-website.png"
+      },
+      {
+        "id":23,
+        "image": "https://magazine.hms.harvard.edu/sites/default/files/styles/1902x1290/public/2023-08/Forest2.webp?h=dfba89c9&itok=DxAe85rj"
+      },
+      {
+        "id":24,
+        "image": "https://www.stanford.edu/wp-content/uploads/2022/04/Ocean-One-banner.jpg"
+      },
+      {
+        "id":25,
+        "image": "https://www.stanford.edu/wp-content/uploads/2022/08/20220510_Helena_Zhang_N6A1519-copy-2048x1366.jpg"
+      },
+
+      {
+        "id": 26,
+        "image": "https://www.stanford.edu/wp-content/uploads/2017/05/slac-01.jpg"
+      },
+      {
+        "id":27,
+        "image":"https://www.stanford.edu/wp-content/uploads/2022/04/HooverTower.jpg"
+      },
+      {
+        "id":28,
+        "image":"https://www.stanford.edu/wp-content/uploads/2022/04/Woods_Institute.jpg"
+      },
+      {
+        "id":29,
+        "image": "https://www.stanford.edu/wp-content/uploads/2017/03/humanities-highlight.jpg"
+      },
+      {
+        "id":30,
+        "image":"https://www.stanford.edu/wp-content/uploads/2017/03/neuroscience-highlight.jpg"
+      },
+      {
+        "id":31,
+        "image":" https://www.stanford.edu/wp-content/uploads/2022/04/FSI2.jpg"
+      },
+      {
+        "id": 32,
+        "image": "https://www.stanford.edu/wp-content/uploads/2022/08/20220414_Libraries_N6A7046-2048x1366.jpg"
+      },
+      {
+        "id":33,
+        "image": "https://www.stanford.edu/wp-content/uploads/2023/03/purposeful-hero.png"
+      },
+      {
+        "id":34,
+        "image": "https://www.stanford.edu/wp-content/uploads/2023/11/20220415_Maya_Guzdar_N6A7345-6-2048x1366.jpg"
+      },
+      {
+        "id":35,
+        "image": "https://www.stanford.edu/wp-content/uploads/2023/05/20230418_Grayson_Armour_95A0681-2.jpg"
+      },
+      {
+        "id": 36,
+        "image": "https://news.stanford.edu/__data/assets/image/0021/161292/Democracy-Day_2023_1500x1000.jpg"
+      },
+      {
+        "id": 37,
+        "image": "https://news.stanford.edu/__data/assets/image/0020/161345/20240814_Office_Objects_with_Nate_Persily-_95A1019_-big-grin.jpg"
+      },
+      {
+        "id": 38,
+        "image": "https://news.stanford.edu/__data/assets/image/0027/161397/GettyImages-1929084770.jpg"
+      },
+      {
+        "id": 39,
+         "image": "https://www.stanford.edu/wp-content/uploads/2022/04/SU_Spring2022_SocialBanners_TW_1500x500_v1-2.png"
+      },
+      {
+        "id": 40,
+        "image": "https://www.stanford.edu/wp-content/uploads/2022/04/Undergrads.jpg"
+      },
+      {
+        "id": 41,
+        "image": "https://www.stanford.edu/wp-content/uploads/2022/04/grad2-2048x1365.jpg"
+      },
+      {
+        "id": 42,
+        "image": "https://www.stanford.edu/wp-content/uploads/2023/03/2018_05_14_Stanford_MBA-221-credit-Elena-Zhukova-2048x1365.jpeg"
+      },
+      {
+        "id": 43,
+        "image": "https://www.stanford.edu/wp-content/uploads/2023/02/20220510_Helena_Zhang_N6A1249-1-2048x1366.jpg"
+      },
+      {
+        "id": 44,
+        "image": "https://arboretum.harvard.edu/wp-content/uploads/2021/07/Acer-rubrum-illustration.png"
+      },
+      {
+
+        "id": 45,
+        "image": "https://arboretum.harvard.edu/wp-content/uploads/2020/07/Ginkgo_Faxon-copy.png"
+      },
+      {
+        "id": 46,
+        "image": "https://arboretum.harvard.edu/wp-content/uploads/2020/11/52299143-Faxon-v12.png"
+      },
+      {
+        "id": 47,
+        "image": "https://arboretum.harvard.edu/wp-content/uploads/2020/07/paperbark-illustration-1-942x1024-1.png"
+      },
+      {
+        "id": 48,
+        "image": "https://c8.alamy.com/comp/W4XN82/cotton-plant-drawing-W4XN82.jpg"
+      },
+      {
+        "id": 49,
+        "image": "https://media.istockphoto.com/id/652285068/vector/villose-pitcher-plant.jpg?s=612x612&w=0&k=20&c=2tID-pzC-VRSS-ILKU8REyoPxFIwiZLiQc_pUd4k01I="
+      },
+
+
+
+      
+      {
+        "id": 50,
+        "image": "https://ai.stanford.edu/wp-content/uploads/2022/08/John_McCarthy_Stanford-1.jpg"
+      },
+      {
+        "id": 51,
+        "image": "https://ai.stanford.edu/wp-content/uploads/2022/08/sail_lab_051122_0153_hex.png"
+      },
+      {
+        "id": 52,
+        "image": "https://ai.stanford.edu/wp-content/uploads/2020/10/hex-img-4.jpg"
+      },
+      {
+        "id": 53,
+        "image": "https://ai.stanford.edu/wp-content/uploads/2022/11/B-CAM-2022SE-102_sm2.jpg"
+      },
+      {
+        "id": 54,
+        "image": "https://ai.stanford.edu/wp-content/uploads/2022/09/sail_lab_oceanone_hex_5cred2.png"
+      }
+     ]
+  
